@@ -1,5 +1,5 @@
 # Custom Colors
-This is a simple mod for Prodigal which allows players to specify custom player character palettes in a JSON file, which can then be freely selected from while playing the game.
+This is a simple mod for Prodigal 1.5 which allows players to specify custom player character palettes in a JSON file, which can then be freely selected from while playing the game.
 
 This mod relies on MelonLoader, so be sure to visit https://melonwiki.xyz/#/ and follow the installation guide, if you haven't already.
 
